@@ -22,3 +22,4 @@
   
 </div>
 
+![Snake animation](https://github.com/mvrcost/mvrcost/blob/output/github-contribution-grid-snake.svg)
