@@ -13,6 +13,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
+![Tableau](https://img.shields.io/badge/-Pandas-0D1117?style=for-the-badge&logo=pandas&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PythonPandas](https://img.shields.io/badge/-Pandas-0D1117?style=for-the-badge&logo=pandas&labelColor=0D1117&textColor=0D1117)&nbsp;
  
